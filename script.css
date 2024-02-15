@@ -1,0 +1,55 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+header {
+    background-image: url(https://media.istockphoto.com/id/1212181347/de/foto/coronavirus-covid-19-zeitung-stoltonen-medieninformationen-isoliert-drucken.jpg?s=1024x1024&w=is&k=20&c=BnK7UKLpUCEkQUyoGALdaCYBkhZFL9wH6weTEsSdW3g=);
+    color: brown;
+    padding: 10px;
+    text-align: center;
+    font-style: italic;
+}
+
+.heading {
+    font-style: italic;
+    color: brown;
+    text-shadow: #f5f5f5;
+}
+
+article {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1,
+h2 {
+    color: #333;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
